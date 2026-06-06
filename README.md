@@ -7,7 +7,7 @@
     <span style="color:#E74C3C; font-weight: bold;">TL;DR:</span> <strong>Improving text rendering performance of AR models without retraining the existing tokenizer and AR model </strong>
   </p>
   <p align="center" style="font-size: 16px;">
-    <a href="https://csu-jpg.github.io/RDA.github.io/" style="text-decoration: none;">🌐 Homepage</a> |
+    <!-- <a href="https://csu-jpg.github.io/RDA.github.io/" style="text-decoration: none;">🌐 Homepage</a> | -->
     <a href="https://arxiv.org/abs/2606.01911v1" style="text-decoration: none;">📄 Paper</a> | 
     <!-- <a href="https://huggingface.co/datasets/CSU-JPG/" style="text-decoration: none;">📁 Dataset</a> |  -->
     <a href="https://huggingface.co/CSU-JPG/RDA_llamagen" style="text-decoration: none;">🤗 Model</a>
