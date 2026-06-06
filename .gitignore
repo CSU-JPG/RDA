@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Local Claude/session files
+.claude/
+
+# Logs and experiment outputs
+logs/
+wandb/
+result*/
+results*/
+output/
+outputs*/
+*.log
+
+# Checkpoints and model weights
+pretrained_model/
+pretrained_models/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Local datasets and debug assets
+data_prepare/open-scans/
+debug_data/
+images/
+data_debug.json
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+inference_at_model_bk/

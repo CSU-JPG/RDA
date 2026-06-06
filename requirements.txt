@@ -1,0 +1,8 @@
+requests
+tqdm
+wandb
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+huggingface_hub
